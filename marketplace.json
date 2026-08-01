@@ -1,0 +1,13 @@
+{
+  "name": "novel-skills",
+  "owner": "juemin4-source",
+  "version": "1.0.0",
+  "description": "novel 系写作技能市场：改编流 / 原创剧本流 / 小说理论评审 / 表演层视频提示词",
+  "plugins": [
+    {
+      "name": "novel-skills",
+      "source": "https://github.com/juemin4-source/novel-skills",
+      "version": "1.0.0"
+    }
+  ]
+}
