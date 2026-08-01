@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Novel Skills" width="100%">
 
-# Novel Skills
+# Writing Pro Max
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-gold)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-blue)
@@ -115,8 +115,8 @@ Novel Skills brings these judgments into every real act of creation.
 **Option 1: Plugin marketplace (recommended)**
 
 ```text
-/plugin marketplace add juemin4-source/novel-skills
-/plugin install novel-skills@novel-skills
+/plugin marketplace add juemin4-source/writing-pro-max
+/plugin install writing-pro-max@writing-pro-max
 ```
 
 **Option 2: Manual copy**

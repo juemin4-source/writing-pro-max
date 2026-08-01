@@ -1,12 +1,12 @@
 {
-  "name": "novel-skills",
+  "name": "writing-pro-max",
   "owner": "juemin4-source",
   "version": "1.0.0",
-  "description": "novel 系写作技能市场：改编流 / 原创剧本流 / 小说理论评审 / 表演层视频提示词",
+  "description": "写作满配版：改编流 / 原创剧本流 / 小说理论评审 / 表演层视频提示词",
   "plugins": [
     {
-      "name": "novel-skills",
-      "source": "https://github.com/juemin4-source/novel-skills",
+      "name": "writing-pro-max",
+      "source": "https://github.com/juemin4-source/writing-pro-max",
       "version": "1.0.0"
     }
   ]

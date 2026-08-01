@@ -30,7 +30,7 @@ def font(size, bold=False):
 d.text((64, 56), "WRITING THEORY · CLAUDE CODE SKILLS", font=font(20), fill="#8b949e")
 
 # 主标题
-d.text((60, 110), "Novel Skills", font=font(76, bold=True), fill="#f0c96a")
+d.text((60, 110), "Writing Pro Max", font=font(76, bold=True), fill="#f0c96a")
 d.text((64, 220), "用一套写作理论，把故事变成作品", font=font(36, bold=True), fill="#e6edf3")
 d.text((64, 280), "概念 → 可拍剧本 · 小说 → 转译协议 · 成稿 → 理论诊断 · 剧本 → 表演指令",
        font=font(20), fill="#9da7b3")
