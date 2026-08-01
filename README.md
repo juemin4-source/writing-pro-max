@@ -1,4 +1,12 @@
+<img src="banner.svg" alt="Novel Skills" width="100%">
+
 # 🎬 Novel Skills — 用一套写作理论，把故事变成作品
+
+![Version](https://img.shields.io/badge/version-v1.0.0-gold)
+![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-blue)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-plugin-8b5cf6)
+![B站](https://img.shields.io/badge/B%E7%AB%99-%E4%B8%80%E7%BE%BD%E8%80%81%E5%B8%88-pink)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-%E5%BC%80%E5%90%AF-green)](https://github.com/juemin4-source/novel-skills/discussions)
 
 **从概念到可拍剧本、从烂稿到精准诊断——一条完整的故事管线。方法论不是拼凑的写作技巧，而是作者自著的四部写作理论（《人物篇》《命运篇》《故事天演论》《文学天演论》）的操作化。**
 

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1c2333"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f0c96a"/>
+      <stop offset="100%" stop-color="#e8a33d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <circle cx="1180" cy="60" r="180" fill="#f0c96a" opacity="0.05"/>
+  <circle cx="90" cy="380" r="140" fill="#4a6fa5" opacity="0.07"/>
+
+  <text x="64" y="110" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="22" fill="#8b949e">WRITING THEORY · CLAUDE CODE SKILLS</text>
+  <text x="60" y="180" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="72" font-weight="bold" fill="url(#gold)">🎬 Novel Skills</text>
+  <text x="64" y="240" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="34" fill="#e6edf3">用一套写作理论，把故事变成作品</text>
+  <text x="64" y="286" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="20" fill="#9da7b3">概念 → 可拍剧本 · 小说 → 转译协议 · 成稿 → 理论诊断 · 剧本 → 表演指令</text>
+
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="16">
+    <rect x="64" y="316" width="270" height="64" rx="10" fill="#21262d" stroke="#30363d"/>
+    <text x="84" y="342" fill="#f0c96a" font-weight="bold">改编流</text>
+    <text x="84" y="366" fill="#9da7b3">小说 → 剧本转译协议</text>
+
+    <rect x="352" y="316" width="270" height="64" rx="10" fill="#21262d" stroke="#30363d"/>
+    <text x="372" y="342" fill="#f0c96a" font-weight="bold">原创剧本流</text>
+    <text x="372" y="366" fill="#9da7b3">概念 → 七阶段长成剧本</text>
+
+    <rect x="640" y="316" width="270" height="64" rx="10" fill="#21262d" stroke="#30363d"/>
+    <text x="660" y="342" fill="#f0c96a" font-weight="bold">小说理论评审</text>
+    <text x="660" y="366" fill="#9da7b3">四层扫描 + W 值打分</text>
+
+    <rect x="928" y="316" width="270" height="64" rx="10" fill="#21262d" stroke="#30363d"/>
+    <text x="948" y="342" fill="#f0c96a" font-weight="bold">表演层提示词</text>
+    <text x="948" y="366" fill="#9da7b3">演什么 · 怎么演 · 不演什么</text>
+  </g>
+
+  <text x="1280" y="404" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#6e7681" text-anchor="end">一羽老师 · 不盲目追逐热点，和你一起再深一点去看世界 · CC BY-NC 4.0</text>
+</svg>
