@@ -1,5 +1,7 @@
 <img src="banner.svg" alt="Novel Skills" width="100%">
 
+**中文** | [English](README.en.md)
+
 # 🎬 Novel Skills — 用一套写作理论，把故事变成作品
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-gold)
