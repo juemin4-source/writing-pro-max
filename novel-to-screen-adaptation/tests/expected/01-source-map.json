@@ -1,0 +1,13 @@
+{
+  "note": "Expected source-map output for 渊光代码_第一章.md",
+  "checks": {
+    "totalLines": 130,
+    "totalNonEmpty": 67,
+    "dialogueRatio": 0.31,
+    "characterCount": 0
+  },
+  "validation": {
+    "source-map exists": true,
+    "totalLines >= 100": true
+  }
+}

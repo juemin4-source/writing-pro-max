@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Seedance 2.0 Video Prompt",
+  "description": "Structured input for assembling a Seedance 2.0 video generation prompt",
+  "type": "object",
+  "properties": {
+    "refs": {
+      "type": "object",
+      "description": "Reference materials uploaded to asset library",
+      "properties": {
+        "character": { "type": "string", "description": "@character reference for character consistency" },
+        "image": { "type": "array", "items": { "type": "string" }, "description": "@image references" },
+        "video": { "type": "array", "items": { "type": "string" }, "description": "@video references for camera motion" },
+        "audio": { "type": "array", "items": { "type": "string" }, "description": "@audio references for BGM alignment" }
+      }
+    },
+    "shotSize": {
+      "type": "string",
+      "enum": ["extreme-close-up", "close-up", "medium-close-up", "medium", "full", "wide"],
+      "description": "Shot size / 景别"
+    },
+    "subject": { "type": "string", "description": "主体/人物设定" },
+    "scene": { "type": "string", "description": "场景/环境" },
+    "action": { "type": "string", "description": "动作/运动" },
+    "camera": { "type": "string", "description": "运镜语言" },
+    "style": { "type": "string", "description": "风格/氛围" },
+    "effect": { "type": "string", "description": "转场/特效" },
+    "audioDesign": { "type": "string", "description": "音频设计" },
+    "segments": {
+      "type": "array",
+      "description": "分时段描述（≥10秒时使用）",
+      "items": {
+        "type": "object",
+        "properties": {
+          "timeRange": { "type": "string", "description": "时间段，如 0-3秒" },
+          "content": { "type": "string", "description": "该时段内容描述" }
+        },
+        "required": ["timeRange", "content"]
+      }
+    }
+  }
+}
