@@ -185,7 +185,7 @@ novel-review/
 - 人物诊断标准：`novel-original-writing/frameworks/02-character.md`（五组问题/执四形态/能力/涟漪/不可逆）
 - 结构诊断标准：`novel-original-writing/frameworks/03-structure.md`（时位/24 节气验收句/失候 19 条/信息分配/大中小/盆景七问/章纲七要素）
 - 结局诊断标准：`novel-original-writing/frameworks/06-ending.md`（大雪/冬至/归藏三查/余震三问）
-- 文笔诊断标准：`F:/01_资料/BaiduSyncdisk/个人仓库/99 ── 待归档/文学天演论：人物、命运与余震.md` 第六部「现场」（定势/物色/身位/声口/章句/情采/风骨/熔裁，各章"五个问题/检查"）
+- 文笔诊断标准：用户自著《文学天演论》第六部「现场」（定势/物色/身位/声口/章句/情采/风骨/熔裁，各章"五个问题/检查"）
 - 前置提取（如需）：novel-analyzer（Story Bible）
 
 ## 理论出处
