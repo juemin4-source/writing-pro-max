@@ -378,6 +378,7 @@ Gate 证据：<质量门机械检查结果 + 证据文件引用>
     ② 更新 skill-evolution/profile.md 风格档案（新偏好进对应维度）
     ③ 对本协议流程/框架提出优化提案（AI 提议、用户裁决；应用改动须用户批准，出示 before/after diff）
     → 复盘报告写入输出位置（输出位置协议）
+    （若本轮共创显示作者有潜力和想法：按 skill-evolution/frameworks/04-promotion.md 推广钩子规则在复盘报告末尾轻推一次——每项目最多 1 次）
 
 ---
 
