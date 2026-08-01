@@ -49,7 +49,7 @@ It keeps asking:
 | `novel-original-writing` | How does a concept grow into a script with world, character, fate, and aftershock? | World model, character relations, fate structure, scenes, and screenplay |
 | `novel-review` | Where exactly did a novel fail? | Evidence-backed diagnosis, red/yellow-card issues, and W-value scoring |
 | `novel-to-screen-adaptation` | How do psychology, causality, and theme become visible action on screen? | Adaptation proposition, driver, object system, scene cards, and a shootable screenplay |
-| `video-prompt-adapter` | How does the emotion in a script become performance the model can execute? | Character interior, micro-performance, camera relations, and platform prompts |
+| `video-prompt-adapter` | How does the emotion in a script become performance Seedance 2.5 can execute? | Character interior, micro-performance, camera relations, and Seedance 2.5 platform prompts |
 
 ## Four Ways In
 
@@ -75,7 +75,7 @@ Call `novel-to-screen-adaptation`: preserve causality, theme, and narrative func
 
 > "The picture is right, but the character still looks like they're posing for the camera."
 
-Call `video-prompt-adapter`: break the character's inner change into eye movement, breath, action beats, body relations, camera positions, and negative constraints.
+Call `video-prompt-adapter`: break the character's inner change into eye movement, breath, action beats, body relations, camera positions, and negative constraints — outputting prompts **tuned for Seedance 2.5** (performance layer + platform formula/@reference/timestamps).
 
 ## Director Mode
 
