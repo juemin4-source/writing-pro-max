@@ -111,6 +111,10 @@ Novel Skills 将这些判断带进每一次真实创作。
 
 ---
 
+## 致谢
+
+交互骨架（AI 提议 → 用户裁决 → 样片摘要 → 通过/修改/自检/评审）借鉴 **@山音** 的 [shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master)（[MIT 许可](https://github.com/Shanyin-ai/shanyin-screenwriting-master/blob/main/LICENSE)）——只借流程形态，方法论本体为作者自著理论（《文学天演论》系列）。
+
 ## 安装
 
 **方式一：插件市场安装（推荐）**

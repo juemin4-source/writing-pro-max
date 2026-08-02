@@ -110,6 +110,10 @@ Novel Skills brings these judgments into every real act of creation.
 
 ---
 
+## Acknowledgements
+
+The interaction skeleton (AI proposes → user decides → sample summary → pass/revise/self-check/review) is borrowed from **@Shanyin**'s [shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master) ([MIT license](https://github.com/Shanyin-ai/shanyin-screenwriting-master/blob/main/LICENSE)) — form only; the methodology itself is the author's own theory (the *Literary Evolution* series).
+
 ## Installation
 
 **Option 1: Plugin marketplace (recommended)**
