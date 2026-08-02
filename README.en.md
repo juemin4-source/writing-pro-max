@@ -51,6 +51,15 @@ It keeps asking:
 | `novel-to-screen-adaptation` | How do psychology, causality, and theme become visible action on screen? | Adaptation proposition, driver, object system, scene cards, and a shootable screenplay |
 | `video-prompt-adapter` | How does the emotion in a script become performance Seedance 2.5 can execute? | Character interior, micro-performance, camera relations, and Seedance 2.5 platform prompts |
 
+## Two Companions: Testing & Evolution
+
+| Skill | The problem it solves | Output |
+| ----- | --------------------- | ------ |
+| `skill-e2e-test` | Could the skills themselves produce "process-passed, product-garbage" stories? | Protocol-level E2E: AI dual-role full-run + mechanical scan + overall work judgment |
+| `skill-evolution` | How do skills learn the user's style? | Style profile from conversations + optimization proposals + promotion hook (referring promising authors) |
+
+The more the creative chain runs, the more E2E verifies it hasn't broken, and evolution absorbs every feedback — **four skills write stories; two companions make the skills write better.**
+
 ## Four Ways In
 
 ### From a single idea
